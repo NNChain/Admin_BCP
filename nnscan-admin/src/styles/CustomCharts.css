@@ -1,0 +1,14 @@
+.box{
+    font-size: 14px;
+    display: flex;
+    gap: 10px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 10px;
+    align-items: center;
+}
+.nnmain{
+background-color: #D7B44280;
+}
