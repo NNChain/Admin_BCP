@@ -1,0 +1,1 @@
+bdfaa4898e0554d2b177105b16b82c54e6ff41e3b5f1d6ba9ca8221d3f488e72  admin_role.wasm

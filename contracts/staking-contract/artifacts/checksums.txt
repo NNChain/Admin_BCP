@@ -1,0 +1,1 @@
+38fe022f2a2f1f3d486c70ca4eb6f82661be2e6ca2e4af4fd12a921fddbf190f  staking_contract.wasm

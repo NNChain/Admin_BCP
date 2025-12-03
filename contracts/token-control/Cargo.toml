@@ -1,0 +1,21 @@
+[package]
+name = "token-control"
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+backtraces = ["cosmwasm-std/backtraces"]
+library = []
+default = []
+
+[dependencies]
+cosmwasm-std = "1.4.6"
+cosmwasm-schema = "1.4.6"
+cw2 = "1.1.1"
+cw-storage-plus = "1.1.1"
+schemars = "0.8.21"
+serde = { version = "1.0.197", features = ["derive"] }
+thiserror = "1.0.58"

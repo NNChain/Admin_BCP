@@ -1,0 +1,7 @@
+.DS_Store
+nnscan-admin-backend/.env
+nnscan-admin/.env
+nnscan-admin/node_modules
+nnscan-admin-backend/node_modules/
+nnscan-admin/build/
+nnscan-admin-backend/build/
